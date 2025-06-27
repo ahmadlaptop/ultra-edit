@@ -4,7 +4,6 @@ body {
 
 header div nav {
     display: flex;
-    border: 2px solid black;
 
 }
 
@@ -39,7 +38,6 @@ section {
     display: flex;
     justify-content: center;
     align-content: center;
-    border: 2px solid black;
     margin-top: 1px;
     height: 450px;
 }
@@ -85,7 +83,6 @@ section div #top p {
 
 article {
     padding-left: 225px;
-    border: 2px solid black;
     display: flex;
     align-items: center;
     gap: 10px;
